@@ -7,7 +7,6 @@ import graph5
 
 
 def find_smallest_colour(G, i):
-    # n = len(G.nodes())
     neighbour_colours = set()
     for x in G[i]:
         if G.nodes[x]["colour"] != "never coloured":
