@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3aa34f9-c1f6-4416-9013-0ef597d10d3e" name="Default Changelist" comment="A potentially working q1">
-      <change afterPath="$PROJECT_DIR$/Part A/greedy_col_variation.py" afterDir="false" />
+    <list default="true" id="d3aa34f9-c1f6-4416-9013-0ef597d10d3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Part A/grapha3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part A/greedy_col.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part A/greedy_col.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +18,14 @@
   <component name="ProjectId" id="1XfbLQfWArMVRQJl9Fju2PlXLhS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Part A" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Part A/greedy_col.py" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Part A" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Part A" />
     </key>
   </component>
@@ -36,7 +41,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Test Q1">
+    <configuration name="Test Q1" type="PythonConfigurationType" factoryName="Python">
+      <module name="ct-graph-cwork-1920" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part A" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part A/greedy_col.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Test Q2" type="PythonConfigurationType" factoryName="Python">
       <module name="ct-graph-cwork-1920" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,6 +84,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.Test Q2" />
+      <item itemvalue="Python.Test Q1" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -112,15 +142,43 @@
       <option name="project" value="LOCAL" />
       <updated>1581443450702</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Potentially working q2">
+      <created>1581449239658</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581449239658</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Project files plus networkx" />
     <MESSAGE value="A potentially working q1" />
     <MESSAGE value="Minor tweak" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor tweak" />
+    <MESSAGE value="Potentially working q2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Potentially working q2" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="available" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
