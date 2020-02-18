@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3aa34f9-c1f6-4416-9013-0ef597d10d3e" name="Default Changelist" comment="Matplotlib installed">
-      <change afterPath="$PROJECT_DIR$/Part A/output_greedy_col_jsbl33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part A/output_greedy_col_variation_jsbl33.txt" afterDir="false" />
+    <list default="true" id="d3aa34f9-c1f6-4416-9013-0ef597d10d3e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -156,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581521490566</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Output files generated">
+      <created>1581526629022</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581526629022</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,7 +184,8 @@
     <MESSAGE value="Minor tweak" />
     <MESSAGE value="Potentially working q2" />
     <MESSAGE value="Matplotlib installed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Matplotlib installed" />
+    <MESSAGE value="Output files generated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Output files generated" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
